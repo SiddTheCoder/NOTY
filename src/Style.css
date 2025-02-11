@@ -1,0 +1,14 @@
+
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+    border-radius: 10px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background-color: #020617; /* slate-950 */
+    border-radius: 10px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
